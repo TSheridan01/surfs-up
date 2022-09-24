@@ -12,10 +12,19 @@ The purpose is to provide my boss more information about temperature trends befo
 
 
 
-June Stats
+# June Stats
 ![image](https://github.com/TSheridan01/surfs-up/blob/86d1457dc7d49d6cb9ac102bfd3546e385b253da/Resources/JuneTemps.png)
 
+June shows an average temperature of 74.9 Degrees with a standard deviation of 3.25
 
 
-December Stats
+
+
+
+
+
+# December Stats
 ![image](https://github.com/TSheridan01/surfs-up/blob/86d1457dc7d49d6cb9ac102bfd3546e385b253da/Resources/DecTemps.png)
+
+December shows an average temperature of 71.04 with an average temperature of 3.74.
+
